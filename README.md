@@ -1,2 +1,2 @@
 # CALCULATOR
-Simple calculator app coded in C and Python.
+Simple calculator app coded in Python.
